@@ -1,0 +1,2 @@
+I am a content of feature text file committed by feature branch.
+i am test modal.
