@@ -2,3 +2,4 @@ Hi I am added as a first line for first commit.
 i to test revert.
 I am from a feature branch.
 I am a feature
+i am stash 0.
