@@ -1,5 +1,2 @@
 Hi I am added as a first line for first commit.
-I am from mergerd code.
-i am from one
-i am from two
-i am from three
+
