@@ -1,3 +1,2 @@
 Hi I am added as a first line for first commit.
-Text file.
-I am from main branch.
+Stash work.
